@@ -1,4 +1,4 @@
-a = 1
+const a = 1
 
 function sum() {
   console.log(a + 1)
