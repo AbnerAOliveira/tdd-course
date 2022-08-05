@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AbnerAOliveira/tdd-course/issues"
   },
-  "homepage": "https://github.com/AbnerAOliveira/tdd-course#readme"
+  "homepage": "https://github.com/AbnerAOliveira/tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
 }
